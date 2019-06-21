@@ -7,3 +7,5 @@
 This is a simple README file. 
 
 Updates for the branch <updates_001>
+
+Updates for the branch <MASTER>
